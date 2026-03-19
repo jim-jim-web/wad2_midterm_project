@@ -23,13 +23,13 @@ The `schedules` table contains the following fields:
 ## Application Screenshots
 
 ### 1. Dashboard (Read)
-![Schedule List](./Screenshots/read.png)
+![Schedule List](./Screenshots/read.PNG)
 
 ### 2. Create New Schedule
-![Create Form](./Screenshots/create.png)
+![Create Form](./Screenshots/create.PNG)
 
 ### 3. Update Schedule
-![Edit Form](./Screenshots/update.png)
+![Edit Form](./Screenshots/update.PNG)
 
 ### 4. Delete Function
-![Delete Confirmation](./Screenshots/delete.png)
+![Delete Confirmation](./Screenshots/delete.PNG)
