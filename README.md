@@ -19,3 +19,17 @@ The `schedules` table contains the following fields:
 3. Configure your `.env` file.
 4. Run `php artisan migrate --seed`.
 5. Run `php artisan serve`.
+
+## Application Screenshots
+
+### 1. Dashboard (Read)
+![Schedule List](./Screenshots/read.png)
+
+### 2. Create New Schedule
+![Create Form](./Screenshots/create.png)
+
+### 3. Update Schedule
+![Edit Form](./Screenshots/update.png)
+
+### 4. Delete Function
+![Delete Confirmation](./Screenshots/delete.png)
