@@ -20,7 +20,7 @@ The `schedules` table contains the following fields:
 4. Run `php artisan migrate --seed`.
 5. Run `php artisan serve`.
 
-![Schedule Management Dashboard](create.png)
-![Schedule Management Dashboard](read.png)
-![Schedule Management Dashboard](update.png)
-![Schedule Management Dashboard](delete.png)
+![Schedule Management Dashboard](screenshot/create.png)
+![Schedule Management Dashboard](screenshot/read.png)
+![Schedule Management Dashboard](screenshot/update.png)
+![Schedule Management Dashboard](screenshot/delete.png)
